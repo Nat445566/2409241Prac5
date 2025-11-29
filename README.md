@@ -7,7 +7,7 @@ This project now uses a JSON configuration file.
 The system requires `config.json` for proper operation. This replaces the old `config.txt` format.
 
 ### config.json structure:
-```json
+json
 {
   "system_title": "App 2.0",
   "status": "CRITICAL"
