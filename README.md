@@ -1,4 +1,5 @@
 # 2409241Prac5
+bh/new-config
 # Project Name
 
 This project now uses a JSON configuration file.
@@ -12,4 +13,5 @@ json
   "system_title": "App 2.0",
   "status": "CRITICAL"
 }
+main
 
